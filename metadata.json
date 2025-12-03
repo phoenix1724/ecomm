@@ -1,0 +1,7 @@
+{
+  "name": "ShopGenie - Indian D2C Assistant",
+  "description": "An AI-powered recommendation assistant for Indian D2C food and fashion brands that provides hyper-personalized suggestions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
